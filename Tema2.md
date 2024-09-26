@@ -8,6 +8,8 @@ En este tema realizaremos las siguientes actividades:
 
 ![](https://localdab.org/wp-content/uploads/2022/11/Compiler-2.jpg)
 
+![]( nissan_skyline_gt_r_r34-1920x1080.jpg )
+
 ## Pasos del proceso de creación de aplicación
 
 Editar codigo fuente | Compilar el codigo fuente  | Ejecutar el código
@@ -21,3 +23,5 @@ Editar codigo fuente | Compilar el codigo fuente  | Ejecutar el código
 - [x] ~Editar~
 - [ ] Compilar
 - [ ] Ejecutar
+
+
