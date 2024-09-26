@@ -16,3 +16,8 @@ Editar codigo fuente | Compilar el codigo fuente  | Ejecutar el código
   Abrimos editor     |  Le pasamos codigo fuente |  Ejecutamops el codigo
   Escribimos código  |  Ejecutamos compilador    |
   Guardamos          |  
+
+**Tareas por realizar**
+- [x] ~Editar~
+- [ ] Compilar
+- [ ] Ejecutar
